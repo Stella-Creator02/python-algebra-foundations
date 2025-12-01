@@ -3,8 +3,7 @@
 
 print("=== FUNCTIONS: CREATING REUSABLE MATHEMATICAL TOOLS ===")
 
-def greet_student(name):
-    return f"Hello, {name}! Welcome to math class."
+1. Hello, Stella! Welcome to math class
 
 def calculate_area(length, width):
     return length * width
